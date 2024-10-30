@@ -2,3 +2,9 @@ demo/
 source/
 index.html
 root.js
+README.md
+demo.js
+demo.js.map
+index.html
+webpack.config.js
+.idea
